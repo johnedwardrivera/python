@@ -1,0 +1,4 @@
+Elabore un programa en Python que lea el código de un artículo, 
+el precio unitario del artículo y la cantidad vendida. Su programa en Python 
+debe calcular e imprimir el total de la venta, el IVA y el total a pagar, 
+sabiendo que el porcentaje del impuesto es dieciséis por ciento.
